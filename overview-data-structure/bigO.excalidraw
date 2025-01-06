@@ -1,0 +1,79 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "zLkCUahKgVzWIcTvnV-I3",
+      "type": "text",
+      "x": 250,
+      "y": 130,
+      "width": 607.03125,
+      "height": 33.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "4XPgWAXUOMhN5E6ufx-qa"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "seed": 116825156,
+      "version": 127,
+      "versionNonce": 386058948,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1736131933096,
+      "link": null,
+      "locked": false,
+      "text": "Big O notation e Análise Assintótica ",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 26,
+      "containerId": null,
+      "originalText": "Big O notation e Análise Assintótica ",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "I32SOk4GWbRfs7F_arysr",
+      "type": "rectangle",
+      "x": 241,
+      "y": 124,
+      "width": 608,
+      "height": 46,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "4XPgWAXUOMhN5E6ufx-qa"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1829357436,
+      "version": 125,
+      "versionNonce": 1432670788,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1736131933096,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
